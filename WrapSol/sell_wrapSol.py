@@ -13,7 +13,7 @@ from solana.rpc.async_api import AsyncClient
 from solders.compute_budget import set_compute_unit_price,set_compute_unit_limit
 from solders.transaction import Transaction
 from utils.create_close_account import  fetch_pool_keys, get_token_account, make_swap_instruction ,sell_get_token_account
-from utils.birdeye import getSymbol
+from Jito.utils.birdeye import getSymbol
 from solana.transaction import Transaction
 from utils.pool_information import gen_pool, getpoolIdByMint
 import os
