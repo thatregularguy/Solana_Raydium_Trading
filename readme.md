@@ -10,9 +10,3 @@ This repository provides a comprehensive guide and implementation for interactin
 - **Integrate with Jito:** Leverage Jito for optimized MEV (Maximal Extractable Value) to maximize your trading strategies on Solana.
 
 This repository serves as a practical resource for developers looking to automate their interactions with the Raydium DEX and manage their Solana accounts programmatically.
-
-
-## 💰 Support My Work
-If these scripts have helped you, please consider supporting my work. Your support will help me continue to develop these tools and create more useful resources for the crypto community.
-
-🚀 sol: CQrCmmHvZqgQBGzmw17ZjGPa1Wue3v21ybcZsTpMzv4o
